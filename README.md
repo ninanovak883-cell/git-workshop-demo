@@ -14,3 +14,9 @@ ldlsfs
 ### github.dev
 
 dfsd
+
+### Avtorji
+
+- Nina Novak
+- Martin Vuk
+- Ksenija Rozman
