@@ -19,3 +19,4 @@ dfsd
 
 - Nina Novak
 - Martin Vuk
+- Ksenija Rozman
