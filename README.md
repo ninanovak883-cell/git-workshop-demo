@@ -14,3 +14,8 @@ ldlsfs
 ### github.dev
 
 dfsd
+
+### Sodelavci
+
+- Nina Novak
+- Martin Vuk
