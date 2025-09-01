@@ -15,7 +15,7 @@ ldlsfs
 
 dfsd
 
-### Sodelavci
+### Avtorji
 
 - Nina Novak
 - Martin Vuk
